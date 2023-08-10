@@ -1,0 +1,20 @@
+{
+	"collection": 
+	[
+		{
+			"input_url"  : "http://goo.gl:",
+			"output_url" : "https://www.google.com/",
+			"hidden_folders": []
+		},
+		{
+			"input_url"  : "http://goo.gl/maps",
+			"output_url" : "https://www.google.com/maps",
+			"hidden_folders": []
+		},
+		{
+			"input_url"  : "http://goo.gl/photos",
+			"output_url" : "https://www.google.com/photos",
+			"hidden_folders": []
+		}
+	]
+}
